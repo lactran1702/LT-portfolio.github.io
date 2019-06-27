@@ -1,0 +1,4 @@
+<FilesMatch "(?i)^.*\.(ico|flv|jpg|jpeg|png|gif|js|css|svg|mp4|mp3|zip)$">
+ExpiresActive On
+ExpiresDefault A2592000
+</FilesMatch>
